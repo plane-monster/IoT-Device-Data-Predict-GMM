@@ -6,10 +6,10 @@ mec3 is developed using Pyomo and represents a MILP (Mixed Integer Linear Progra
 RHC serves as an experimental file to analyze the energy consumption of heuristic solutions.
 test is an experimental file designed to evaluate the energy consumption of both optimal and random solutions.
 random_decision is tailored for generating random strategies concerning channel allocation and mode execution approximations.
-Both NetworkBasics and Solar are crucial files responsible for generating key parameters. Notably, both them were created by my tutor.
+Both NetworkBasics and Solar are crucial files responsible for generating key parameters. Notably, both them were provided by my tutor.
 
 mec3 是使用Pyomo开发的，并代表一个MILP（混合整数线性编程）模型。
 RHC 作为一个实验文件，用来分析启发式解决方案的能耗。
 test 是一个实验文件，旨在评估最优解和随机解的能耗。
 random_decision 专门用于生成关于信道分配和近似模式执行的随机策略。
-NetworkBasics 和 Solar 都是生成关键参数的关键文件, 值得注意的是，它们都是由我的导师创建的。
+NetworkBasics 和 Solar 都是生成关键参数的关键文件, 值得注意的是，它们两个都是由我的导师提供的的。
